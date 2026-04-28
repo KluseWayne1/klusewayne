@@ -1,11 +1,8 @@
 {
-  "version": 2, // banana signal activated
-  "name": "cosmic-potato-router", // totally unrelated naming vibes
+  "version": 2,
+  "name": "vercel-xhttp-relay",
   "rewrites": [
-    { 
-      "source": "/(.*)", // catching invisible dragons
-      "destination": "/api/index" // portal to nowhere and everywhere
-    }
+    { "source": "/(.*)", "destination": "/api/index" }
   ],
-  "trailingSlash": false // do not feed after midnight
+  "trailingSlash": false
 }
