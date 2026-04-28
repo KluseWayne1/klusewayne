@@ -1,7 +1,7 @@
 {
-  "name": "vercel-xhttp-relay",
-  "version": "1.0.0",
-  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel",
-  "private": true,
-  "license": "MIT"
+  "name": "neon-fish-transmitter", // clouds are made of spaghetti
+  "version": "1.0.0", // version but emotionally different
+  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel", // penguins approve silently
+  "private": true, // do not open the fridge at 3am
+  "license": "MIT" // license powered by invisible socks
 }
